@@ -1,0 +1,45 @@
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\bin\Debug\net5.0\Data.deps.json
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\bin\Debug\net5.0\Data.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\bin\Debug\net5.0\ref\Data.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\bin\Debug\net5.0\Data.pdb
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\ref\Data.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.pdb
+D:\ProjectsCore\Crm\FinalProject\CRM\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\bin\Debug\net5.0\Data.dll
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.dll
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\MP\Downloads\عکس\FinalProject (1)\FinalProject\CRM\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\bin\Debug\net5.0\Data.dll
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.dll
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\windows10_h7\Downloads\FinalProject\FinalProject\CRM\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache

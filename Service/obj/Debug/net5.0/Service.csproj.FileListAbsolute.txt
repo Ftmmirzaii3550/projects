@@ -1,0 +1,15 @@
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\bin\Debug\net5.0\Service.deps.json
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\bin\Debug\net5.0\Service.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\bin\Debug\net5.0\ref\Service.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\bin\Debug\net5.0\Service.pdb
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\ref\Service.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.pdb
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\bin\Debug\net5.0\Data.dll
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\bin\Debug\net5.0\Data.pdb
+D:\ProjectsCore\Crm\FinalProject\CRM\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
